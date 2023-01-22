@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React, Redux, Chakra UI<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about React<br>📫 How to reach me vishalumrao6@gmail.com<br>Fun fact I am Funny
+🔭 I’m currently working on React, Redux, Chakra UI<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about React<br>My React Projects : https://github.com/vishalu439/My-React-Projects<br>📫 How to reach me vishalumrao6@gmail.com<br>Fun fact I am Funny
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=vishalu439&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishalu439&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalu439&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@vishalumrao)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
