@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React, Redux, Chakra UI<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about React<br>My React Projects : https://github.com/vishalu439/My-React-Projects<br>📫 How to reach me vishalumrao6@gmail.com<br>Fun fact I am Funny
+🔭 I’m currently working on React, Redux, Chakra UI<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about React<br>My React Projects : https://contentful-cms-six.vercel.app/<br>📫 How to reach me vishalumrao6@gmail.com<br>Fun fact I am Funny
 
 
 ## 🌐 Socials:
